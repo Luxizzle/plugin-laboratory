@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Teeny tiny extendable class to create asynchronous middleware layers",
   "main": "index.js",
+  "repository": "Luxizzle/plugin-laboratory",
   "scripts": {
     "test": "ava"
   },
