@@ -1,6 +1,6 @@
 {
   "name": "plugin-laboratory",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Teeny tiny extendable class to create asynchronous middleware layers",
   "main": "index.js",
   "repository": "Luxizzle/plugin-laboratory",
